@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/VAR.dir/chapter1/temperatues_while.c.o  -o VAR 

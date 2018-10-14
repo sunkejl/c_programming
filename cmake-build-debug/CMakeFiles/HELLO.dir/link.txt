@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/HELLO.dir/chapter1/hello.c.o  -o HELLO 

@@ -1,0 +1,6 @@
+/data/c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/data/c/cmake-build-debug/CMakeFiles/c.dir
+/data/c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/data/c/cmake-build-debug/CMakeFiles/TEMPERATURES_FOR.dir
+/data/c/cmake-build-debug/CMakeFiles/HELLO.dir
+/data/c/cmake-build-debug/CMakeFiles/TEMPERATURES_WHILE.dir

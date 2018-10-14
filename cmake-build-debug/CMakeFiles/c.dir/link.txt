@@ -1,0 +1,2 @@
+/usr/bin/ar qc libc.a  CMakeFiles/c.dir/library.c.o CMakeFiles/c.dir/chapter1/hello.c.o CMakeFiles/c.dir/chapter1/temperatures_while.c.o CMakeFiles/c.dir/chapter1/temperatures_for.c.o
+/usr/bin/ranlib libc.a

@@ -8,3 +8,4 @@ add_library(c library.c library.h c_programming/chapter1/hello.c c_programming/c
 ADD_EXECUTABLE(HELLO c_programming/chapter1/hello.c)
 ADD_EXECUTABLE(TEMPERATURES_WHILE c_programming/chapter1/temperatures_while.c)
 ADD_EXECUTABLE(TEMPERATURES_FOR c_programming/chapter1/temperatures_for.c)
+ADD_EXECUTABLE(FILE_COPYING c_programming/chapter1/file_copying.c)

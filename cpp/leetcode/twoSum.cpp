@@ -12,8 +12,8 @@ public:
            if(m.find(nums[i])==m.end()){
                 m[target-nums[i]]=i;
            }else{
-                 r.push_back(i);
-                 r.push_back(m[nums[i]]);
+                r.push_back(m[nums[i]]);
+                r.push_back(i);
                  break;
            }
         }
